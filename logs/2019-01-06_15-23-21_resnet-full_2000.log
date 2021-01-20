@@ -1,0 +1,48 @@
+Train model: resnet
+Train with batch_size: 64
+Training epochs: 10
+
+Train dataset length: 2000
+Valid dataset length: 1000
+Test dataset length: 80484
+
+Total trainable parameters: 21,801,676
+
+lr = 0.0001
+Epoch 0: loss: 0.552273, acc: 0.785156, val_loss: 0.500744, val_acc: 0.824414
+Saving best weights so far with val_loss: 0.500744
+
+lr = 0.0001
+Epoch 1: loss: 0.147210, acc: 0.951172, val_loss: 0.411801, val_acc: 0.875781
+Saving best weights so far with val_loss: 0.411801
+
+lr = 0.0001
+Epoch 2: loss: 0.049184, acc: 0.984863, val_loss: 0.430330, val_acc: 0.892969
+
+lr = 0.0001
+Epoch 3: loss: 0.014904, acc: 0.996094, val_loss: 0.372092, val_acc: 0.896875
+Saving best weights so far with val_loss: 0.372092
+
+lr = 0.0001
+Epoch 4: loss: 0.006876, acc: 0.999023, val_loss: 0.351641, val_acc: 0.913477
+Saving best weights so far with val_loss: 0.351641
+
+lr = 0.0001
+Epoch 5: loss: 0.003778, acc: 0.999512, val_loss: 0.411112, val_acc: 0.904688
+
+lr = 0.0001
+Epoch 6: loss: 0.010380, acc: 0.996582, val_loss: 0.411203, val_acc: 0.898828
+
+lr = 0.0001
+Epoch 7: loss: 0.023841, acc: 0.992676, val_loss: 0.515610, val_acc: 0.870313
+
+lr = 0.0001
+Epoch 8: loss: 0.016457, acc: 0.993652, val_loss: 0.555619, val_acc: 0.899414
+
+lr = 0.0001
+Epoch 9: loss: 0.026734, acc: 0.989258, val_loss: 0.902177, val_acc: 0.798047
+Saving weights at epoch 9
+
+Going through test set.
+test mean loss: 0.7055260565025296
+test mean accuracies: 0.840567589659001
