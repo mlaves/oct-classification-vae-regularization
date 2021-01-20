@@ -10,7 +10,7 @@ Paper link: [https://arxiv.org/pdf/1904.00790.pdf](https://arxiv.org/pdf/1904.00
 
 This paper describes a method based on variational autoencoder regularization that improves OCT retinal disease classification performance when using a limited amount of labeled data.
 
-![t-SNE](https://raw.githubusercontent.com/mlaves/oct-classification-vae-regularization/main/ls_tsne.png "t-SNE")
+![t-SNE](https://raw.githubusercontent.com/mlaves/oct-classification-vae-regularization/main/ls_tsne.png "t-SNE")  
 Figure 1: t-SNE projection of the latent space.
 
 
